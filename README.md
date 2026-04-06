@@ -25,7 +25,7 @@ Before running the project, ensure you have:
     pip install mysql-connector-python
     ```
 Configure Database Credentials
-  host="localhost",
-  user="your_username",
-  password="your_password"
+* host="localhost"
+* user="your_username"
+* password="your_password"
 
