@@ -10,7 +10,7 @@ A desktop-based application built with **Python**, **Tkinter**, and **MySQL** to
 * **GUI Interface:** Simple, interactive window built with Tkinter (no command line required for daily use).
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python 3.x
 * **Database:** MySQL
 * **GUI Framework:** Tkinter
